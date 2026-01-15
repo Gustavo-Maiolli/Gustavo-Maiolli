@@ -2,7 +2,7 @@
 
 **`Dev em formação`**
 
-Prazer, me chamo Gustavo Maiolli, tenho 19 anos. Sou formado pela ETEC no curso técnico de Desenvolvimento de Sistemas. Atualmente, pretendo começar a cursar Engenharia da Computação. Também estou em busca de uma oportunidade como desenvolvedor, por ser uma área da qual gosto muito e que representa uma das minhas ambições. Agora, conheça minhas competências:
+Prazer, me chamo Gustavo Maiolli, tenho 19 anos. Sou formado pela ETEC no curso técnico de Desenvolvimento de Sistemas e atualmente curso Engenharia da Computação. Também estou em busca de uma oportunidade como desenvolvedor, por ser uma área da qual gosto muito e que representa uma das minhas ambições. Agora, conheça minhas competências:
 <p align="left">
     <a href="https://github.com/Gustavo-Maiolli?tab=repositories&sort=stargazers">
         <img 
