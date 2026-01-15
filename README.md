@@ -107,7 +107,7 @@ Prazer, me chamo Gustavo Maiolli, tenho 19 anos. Sou formado pela ETEC no curso 
 
 <br/>
 <br/>
-
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -120,7 +120,7 @@ Prazer, me chamo Gustavo Maiolli, tenho 19 anos. Sou formado pela ETEC no curso 
     src="https://github-readme-stats-4xas.vercel.app/api?username=Gustavo-Maiolli&count_private=true&include_all_commits=true&theme=tokyonight"
 />
 -->
-
+<!--
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -130,4 +130,4 @@ Prazer, me chamo Gustavo Maiolli, tenho 19 anos. Sou formado pela ETEC no curso 
 
 </p>
 
-
+-->
